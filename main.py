@@ -14,7 +14,7 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 excel_file_path = './guest_list.xlsx'
 
 # Список разрешённых пользователей (User ID)
-authorized_usernames = ["@Alexander_Dym", "@yana_nebo","@kasper94","@AliNadya"]  # Замените на реальные User ID разрешённых пользователей
+authorized_usernames = ["@Alexander_Dym", "@yana_nebo","@kasper94","@AliNadya","@kastorkin"]  # Замените на реальные User ID разрешённых пользователей
 
 # Список участников с уникальными токенами
 participants = {
