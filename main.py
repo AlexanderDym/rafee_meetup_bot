@@ -174,7 +174,7 @@ async def confirm_reset(query, context):
 
     # Уведомление о сбросе
     await query.message.reply_text("🔄 Данные успешно сброшены.")
-
+    
 # Функция отправки меню с кнопками
 async def menu(update: Update, context):
     user = update.message.from_user
