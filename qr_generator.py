@@ -7,9 +7,7 @@ bot_name = 'trafee_meetup_bot'
 
 # Список участников с уникальными токенами
 participants = [
-    {"name": "Alexander", "token": "token_alexander"},
-    {"name": "Arthur", "token": "token_arthur"},
-   
+    {"name": "Igor Ivanovski", "token": "token_igor_ivanovski"},
     
 ]
 
