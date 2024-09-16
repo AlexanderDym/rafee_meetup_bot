@@ -57,7 +57,9 @@ participants = {
     "token_muhammad": "Muhammad Ulil Nuha",
     "token_pentil": "Pentil_dawa",
     "token_sergey": "Sergey",
-    "token_ilya": "Ilya"
+    "token_ilya": "Ilya",
+    "token_alexander": "Alexander",
+    "token_arthur": "Arthur"
 }
 
 # Хранилище для отслеживания состояния участников

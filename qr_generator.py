@@ -7,45 +7,10 @@ bot_name = 'trafee_meetup_bot'
 
 # Список участников с уникальными токенами
 participants = [
-    {"name": "Kostiantyn Dotsenko", "token": "token_kostiantyn"},
-    {"name": "Mariia", "token": "token_mariia"},
-    {"name": "Joanna Marinova", "token": "token_joanna"},
-    {"name": "Daiana", "token": "token_daiana_b"},
-    {"name": "Daiana Imlive", "token": "token_daiana_imlive"},
-    {"name": "Artem", "token": "token_artem"},
-    {"name": "Anastasiia", "token": "token_anastasiia"},
-    {"name": "Olga", "token": "token_olga"},
-    {"name": "Sebastien BALESTAS", "token": "token_sebastien"},
-    {"name": "Nikita", "token": "token_nikita"},
-    {"name": "Anton", "token": "token_anton"},
-    {"name": "Sasha", "token": "token_sasha"},
-    {"name": "Shawn Herron", "token": "token_shawn"},
-    {"name": "cybermike", "token": "token_cybermike"},
-    {"name": "Vitaliy", "token": "token_vitaliy"},
-    {"name": "Николай", "token": "token_nikolay"},
-    {"name": "Vladyslav Haiduk", "token": "token_vladyslav"},
-    {"name": "Slava", "token": "token_slava"},
-    {"name": "Roman", "token": "token_roman"},
-    {"name": "Tomáš Vítek", "token": "token_tomas"},
-    {"name": "Pavel", "token": "token_pavel"},
-    {"name": "Kira", "token": "token_kira"},
-    {"name": "Snezhana Fed", "token": "token_snezhana"},
-    {"name": "Maksym", "token": "token_maksym"},
-    {"name": "Igor Aleksandrov", "token": "token_igor"},
-    {"name": "Andrii Cherepanskyi", "token": "token_andrii"},
-    {"name": "Nazar", "token": "token_nazar"},
-    {"name": "Sebastian Prekop", "token": "token_sebastian"},
-    {"name": "Tobias Andersen", "token": "token_tobias_andersen"},
-    {"name": "Daria", "token": "token_daria"},
-    {"name": "Kian Mir", "token": "token_kian"},
-    {"name": "Alessandro Polidoro", "token": "token_alessandro"},
-    {"name": "Tobias Andersen (Endorphina)", "token": "token_tobias_endorphina"},
-    {"name": "Andrii", "token": "token_andrii_stat"},
-    {"name": "Inna", "token": "token_inna"},
-    {"name": "Muhammad Ulil Nuha", "token": "token_muhammad"},
-    {"name": "Pentil_dawa", "token": "token_pentil"},
-    {"name": "Sergey", "token": "token_sergey"},
-    {"name": "Ilya", "token": "token_ilya"}
+    {"name": "Alexander", "token": "token_alexander"},
+    {"name": "Arthur", "token": "token_arthur"},
+   
+    
 ]
 
 # Папка для сохранения QR-кодов
