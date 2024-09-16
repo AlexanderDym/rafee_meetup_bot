@@ -60,10 +60,12 @@ participants = {
     "token_ilya": "Ilya",
     "token_alexander": "Alexander",
     "token_arthur": "Arthur",
-    "token_igor_ivanovski": "Igor Ivanovski"
+    "token_igor_ivanovski": "Igor Ivanovski",
+    "token_yacine": "Yacine",
+    "token_yuliaa": "Yuliaa"
 }
 
-# Хранилище для отслеживания состояния участников
+# Хранилище для отслеживания состояния участ    ников
 checked_in = set()
 
 # Функция для проверки прав доступа по username
